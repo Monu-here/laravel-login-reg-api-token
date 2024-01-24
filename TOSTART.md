@@ -1,4 +1,4 @@
-<strong>
+    <strong>
 How to run this Api
 </strong>
 <p>
@@ -26,12 +26,12 @@ value 'user'
 it will make user and give token like this 
     <br>
 {
-    "success": true,
-    "data": {
-        "token": "4|duRq29y9VBPxRpc2uBnxupHJeHUbt4Xyqx4HxcYpfb0ef858",
-        "name": "user"
-    },
-    "message": "User registered successfully"
+    "success": true,   <br>
+    "data": {  <br>
+        "token": "4|duRq29y9VBPxRpc2uBnxupHJeHUbt4Xyqx4HxcYpfb0ef858",  <br>
+        "name": "user"  <br>
+    },  <br>
+    "message": "User registered successfully"  <br>
 }
       <br>
 </p>
