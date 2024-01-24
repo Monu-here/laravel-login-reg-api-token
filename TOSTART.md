@@ -61,14 +61,14 @@ value 'user'
  
 </li>
 it will make user and give token for login that user like this 
-{
-    "success": true,
-    "data": {
-        "token": "5|ZV5hvCdW9Zg4njWHz8b9HbJqiEMp6BaK1GNG3009fc2ca61e",
-        "name": "user"
-    },
-    "message": "User login successfully"
-}
+{   <br>
+    "success": true,  <br>
+    "data": {  <br>
+        "token": "5|ZV5hvCdW9Zg4njWHz8b9HbJqiEMp6BaK1GNG3009fc2ca61e",  <br>
+        "name": "user"  <br>
+    },  <br>
+    "message": "User login successfully"  <br>
+}  <br>
 </p>
 </li>
 <li>
@@ -80,14 +80,14 @@ go to Authorization  choose Bearer Token here enter that login token then it wil
 </p>
 <p>
 like this 
-{
-    "id": 4,
-    "name": "user",
-    "email": "email@gmail.com",
-    "email_verified_at": null,
-    "created_at": "2024-01-24T07:19:11.000000Z",
-    "updated_at": "2024-01-24T07:19:11.000000Z"
-}
+{  <br>
+    "id": 4,  <br>
+    "name": "user",  <br>
+    "email": "email@gmail.com",  <br>
+    "email_verified_at": null,  <br>
+    "created_at": "2024-01-24T07:19:11.000000Z",  <br>
+    "updated_at": "2024-01-24T07:19:11.000000Z"  <br>
+}  <br>
 </p>
 </li>
 
