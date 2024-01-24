@@ -24,6 +24,7 @@ value 'user'
 value 'user'
 </li>
 it will make user and give token like this 
+    <br>
 {
     "success": true,
     "data": {
@@ -32,6 +33,7 @@ it will make user and give token like this
     },
     "message": "User registered successfully"
 }
+      <br>
 </p>
 </li>
 
